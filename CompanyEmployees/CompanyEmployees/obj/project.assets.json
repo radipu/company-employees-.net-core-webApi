@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\Practice\\company-employees-.net-core-webApi\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+      "projectUniqueName": "C:\\Users\\curet\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
       "projectName": "CompanyEmployees",
-      "projectPath": "D:\\.NET\\Practice\\company-employees-.net-core-webApi\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+      "projectPath": "C:\\Users\\curet\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
       "packagesPath": "C:\\Users\\curet\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\Practice\\company-employees-.net-core-webApi\\CompanyEmployees\\CompanyEmployees\\obj\\",
+      "outputPath": "C:\\Users\\curet\\source\\repos\\CompanyEmployees\\CompanyEmployees\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
